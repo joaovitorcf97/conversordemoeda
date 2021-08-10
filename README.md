@@ -5,5 +5,5 @@
 Uma simples aplicação que consume uma api externa para converter moedas(Real, Dolar e Euro).
 
 <p align="center">
-  <img alt="from js" src="screen.png">
+  <img alt="from js" width="400" src="screen.png">
 </p>
